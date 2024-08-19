@@ -1,3 +1,8 @@
+<p align="center">
+    <img width="150%"src="./images/024f2b4abfeaa91342f3862a65087690_720.jpg" />
+</p>
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Einstein-Newton-666&count_private=true&show_icons=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
