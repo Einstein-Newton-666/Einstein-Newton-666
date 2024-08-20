@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
     <img width="60%"src="./images/illust_101881395_20240427_163745.jpg" />
-</p>
+</p> -->
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
