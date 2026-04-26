@@ -2,7 +2,7 @@
     <img width="60%"src="./images/illust_101881395_20240427_163745.jpg" />
 </p> -->
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Einstein-Newton-666)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Einstein-Newton-666&count_private=true&show_icons=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats" />
 </a> -->
