@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <img width="340" src="https://raw.githubusercontent.com/Einstein-Newton-666/Einstein-Newton-666/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="repos per language"> <img width="340" src="https://raw.githubusercontent.com/Einstein-Newton-666/Einstein-Newton-666/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="most commit language">
+  <img width="340" src="https://raw.githubusercontent.com/Einstein-Newton-666/Einstein-Newton-666/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="repos per language">&nbsp;&nbsp;&nbsp;&nbsp;<img width="340" src="https://raw.githubusercontent.com/Einstein-Newton-666/Einstein-Newton-666/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="most commit language">
 </p>
 
 <p align="center">
-  <img width="340" src="https://raw.githubusercontent.com/Einstein-Newton-666/Einstein-Newton-666/main/profile-summary-card-output/github/3-stats.svg" alt="stats"> <img width="340" src="https://raw.githubusercontent.com/Einstein-Newton-666/Einstein-Newton-666/main/profile-summary-card-output/github/4-productive-time.svg" alt="productive time">
+  <img width="340" src="https://raw.githubusercontent.com/Einstein-Newton-666/Einstein-Newton-666/main/profile-summary-card-output/github/3-stats.svg" alt="stats">&nbsp;&nbsp;&nbsp;&nbsp;<img width="340" src="https://raw.githubusercontent.com/Einstein-Newton-666/Einstein-Newton-666/main/profile-summary-card-output/github/4-productive-time.svg" alt="productive time">
 </p>
