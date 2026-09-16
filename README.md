@@ -1,31 +1,36 @@
-<!-- <p align="center">
-    <img width="60%"src="./images/illust_101881395_20240427_163745.jpg" />
-</p> -->
+### Hi there 👋
+
+我是 **Einstein-Newton-666**，在折腾机器人、计算机视觉和嵌入式相关的东西。
+
+- 🔭 目前在搞：扑翼机器人、视觉目标跟踪
+- 🌱 正在学：ROS / C++ / Python 工程实践
+- 📝 博客：<https://einstein-newton-666.github.io/>
+- 📫 联系：<!-- TODO：换成你愿意公开的邮箱或社交主页，别写私人邮箱 -->
+
+<p align="center">
+  <img width="60%" src="./images/illust_101881395_20240427_163745.jpg" alt="banner">
+</p>
+
+<!--
+  下面的统计卡片由 .github/workflows/profile-summary-cards.yml 每天自动生成，
+  提交在本仓库的 profile-summary-card-output/github_dark/ 目录里，图片来自本仓库本身，
+  不再依赖任何第三方在线服务（原来那张 github-readme-stats 卡片就是这么挂掉的）。
+
+  注意：第一次提交 workflow 之后，要等 Actions 跑完（约 1 分钟）卡片文件才会出现，
+  在那之前这几行是裂图，属于正常现象。想换配色就改 workflow 里的 THEME。
+-->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Einstein-Newton-666/Einstein-Newton-666/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details">
+</p>
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Einstein-Newton-666" />
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/convoychat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Einstein-Newton-666&layout=compact&count_private=true" />
-      </a>
-    </td>
+    <td><img src="https://raw.githubusercontent.com/Einstein-Newton-666/Einstein-Newton-666/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language"></td>
+    <td><img src="https://raw.githubusercontent.com/Einstein-Newton-666/Einstein-Newton-666/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most commit language"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Einstein-Newton-666/Einstein-Newton-666/main/profile-summary-card-output/github_dark/3-stats.svg" alt="stats"></td>
+    <td><img src="https://raw.githubusercontent.com/Einstein-Newton-666/Einstein-Newton-666/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time"></td>
   </tr>
 </table>
-
-<!--
-**Einstein-Newton-666/Einstein-Newton-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
