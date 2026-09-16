@@ -59,6 +59,7 @@ jobs:
           # 在 Actions 里 BRANCH_NAME 会被忽略：action 源码里优先用 GITHUB_REF 推导分支，
           # 所以卡片落在「workflow 所在的那个分支」上。这里写上只是为了让本地手动执行时行为一致。
           BRANCH_NAME: "main"
-          THEME: github_dark     # 只生成这一个主题；留空会把 60 多个主题全部生成
+          THEME: github          # 浅色主题（白底 #ffffff + 浅灰边框）：深色卡片放在浅色页面里像一块黑板
+                                 # 备选：nord_bright（浅灰蓝）/ transparent（透明底）/ github_dark（原来的深色）
           UTC_OFFSET: 8          # 北京时间，「高效时段」卡片按这个口径统计
           AUTO_PUSH: true        # 生成后自动 commit + push 回本分支
