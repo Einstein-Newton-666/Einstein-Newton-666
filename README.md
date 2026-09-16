@@ -1,15 +1,4 @@
-### Hi there 👋
 
-我是 **Einstein-Newton-666**，在折腾机器人、计算机视觉和嵌入式相关的东西。
-
-- 🔭 目前在搞：扑翼机器人、视觉目标跟踪
-- 🌱 正在学：ROS / C++ / Python 工程实践
-- 📝 博客：<https://einstein-newton-666.github.io/>
-- 📫 联系：<!-- TODO：换成你愿意公开的邮箱或社交主页，别写私人邮箱 -->
-
-<p align="center">
-  <img width="60%" src="./images/illust_101881395_20240427_163745.jpg" alt="banner">
-</p>
 
 <!--
   下面的统计卡片由 .github/workflows/profile-summary-cards.yml 每天自动生成，
